@@ -81,12 +81,12 @@
                 <value>0</value>
             </capacity>
         </place>
-        <place id="&#379;ó&#322;te">
+        <place id="&#379;Ã³&#322;te">
             <graphics>
                 <position x="334.0909090909092" y="261.81818181818187"/>
             </graphics>
             <name>
-                <value>&#379;ó&#322;te</value>
+                <value>&#379;Ã³&#322;te</value>
                 <graphics>
                     <offset x="0.0" y="0.0"/>
                 </graphics>
@@ -270,7 +270,7 @@
             <arcpath id="001" x="479" y="271" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="T0 to &#379;ó&#322;te" source="T0" target="&#379;ó&#322;te">
+        <arc id="T0 to &#379;Ã³&#322;te" source="T0" target="&#379;Ã³&#322;te">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
@@ -337,7 +337,7 @@
             <arcpath id="002" x="330" y="320" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="T3 to &#379;ó&#322;te" source="T3" target="&#379;ó&#322;te">
+        <arc id="T3 to &#379;Ã³&#322;te" source="T3" target="&#379;Ã³&#322;te">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
@@ -363,7 +363,7 @@
             <arcpath id="001" x="426" y="231" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="&#379;ó&#322;te to T1" source="&#379;ó&#322;te" target="T1">
+        <arc id="&#379;Ã³&#322;te to T1" source="&#379;Ã³&#322;te" target="T1">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
@@ -376,7 +376,7 @@
             <arcpath id="001" x="426" y="272" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="&#379;ó&#322;te to T2" source="&#379;ó&#322;te" target="T2">
+        <arc id="&#379;Ã³&#322;te to T2" source="&#379;Ã³&#322;te" target="T2">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
