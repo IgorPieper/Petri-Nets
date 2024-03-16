@@ -41,12 +41,12 @@
                 <value>0</value>
             </capacity>
         </place>
-        <place id="&#379;ó&#322;te">
+        <place id="&#379;Ã³&#322;te">
             <graphics>
                 <position x="375.0" y="135.0"/>
             </graphics>
             <name>
-                <value>&#379;ó&#322;te</value>
+                <value>&#379;Ã³&#322;te</value>
                 <graphics>
                     <offset x="0.0" y="0.0"/>
                 </graphics>
@@ -152,7 +152,7 @@
             <arcpath id="001" x="301" y="152" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="T0 to &#379;ó&#322;te" source="T0" target="&#379;ó&#322;te">
+        <arc id="T0 to &#379;Ã³&#322;te" source="T0" target="&#379;Ã³&#322;te">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
@@ -204,7 +204,7 @@
             <arcpath id="001" x="442" y="112" curvePoint="false"/>
             <type value="normal"/>
         </arc>
-        <arc id="&#379;ó&#322;te to T1" source="&#379;ó&#322;te" target="T1">
+        <arc id="&#379;Ã³&#322;te to T1" source="&#379;Ã³&#322;te" target="T1">
             <graphics/>
             <inscription>
                 <value>Default,1</value>
