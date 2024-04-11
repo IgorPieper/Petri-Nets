@@ -1,0 +1,16 @@
+Program1 = (T0, P5), (T1, P4)
+Program2 = (T3, P4), (T4, P5)
+
+
+
+
+R1 = P4
+R2 = P5
+
+O11 = T0
+O12 = T1
+O21 = T3
+O22 = T4
+
+Program1 = (O11, R2), (O12, R1)
+Program2 = (O21, R1), (O22, R2)
